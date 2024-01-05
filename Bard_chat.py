@@ -12,8 +12,8 @@ from summarizer import Summarizer
 import webbrowser
 
 # Define API_KEYS 
-os.environ["_BARD_API_KEY"] = "eggWzduDkvZxJYnLL6obYWrKzj5EVvxSSADQEQafU3s7BlMoQRq2BkjG-aXsfwJowo2qZg."
-SERP_API_KEY = "5ee305891c4620bf0423b395f5c95e8fc80f231363f09ffd30666fa8d0dc58ea"
+os.environ["_BARD_API_KEY"] = "Browser Cookie"
+SERP_API_KEY = "API KEY"
 
 # Define List of trusted domain names as of yet I just stored it here, if needed can be stored in an excel file or even in db and can be accessed
 trusted_domains = ["climate.nasa.gov","climatefactchecks.org","eu.usatoday.com","www.ncbi.nlm.nih.gov"
